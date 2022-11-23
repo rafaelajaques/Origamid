@@ -220,3 +220,11 @@ body {
         margin-bottom: 0;
     }
 }
+
+.js-tabcontent section{
+    display: none;
+}
+
+.js-tabcontent section.ativo{
+    display: block;
+}
